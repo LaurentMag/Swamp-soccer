@@ -7,4 +7,5 @@ to install the node_module folder
 
 Don't forget to `Watch Sass`!
 
-team project : in charge of member page + filter.
+team project : 
+I was in charge of member page + filter.
